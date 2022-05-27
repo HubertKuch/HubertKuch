@@ -47,15 +47,22 @@ I am interested in UX/UI, designing, reading fantasy
 
 ## My Designs
 [NeptoType](https://www.figma.com/file/d3YjvIMI5IS7431a46ooKP/NeptoType?node-id=0%3A1) - Application to make sticky and markdown notes with calendar.
+
 <img src="neptoType.png" height="500">
 
+
 [Avocado Documentation](https://www.figma.com/file/DAqZpZtCkiEiVDcPNCL3fv/Avocado-Documentation)
+
 <img src="avocado.png" height="500">
 
 [My portfolio](https://www.figma.com/file/6gBJQQJEnimPrIAOF5GQjD/portfolio)
+
+
 <img src="portfolio.png" height="500">
 
 [Pilio](https://www.figma.com/file/6gBJQQJEnimPrIAOF5GQjD/pilio) - Application to share pictures with friends 
+
+
 <img src="pilio.png" height="500">
 
 [NeptoType](https://www.figma.com/file/d3YjvIMI5IS7431a46ooKP/NeptoType?node-id=0%3A1)
