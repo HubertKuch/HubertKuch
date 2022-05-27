@@ -64,5 +64,3 @@ I am interested in UX/UI, designing, reading fantasy
 
 
 <img src="pilio.png" height="500">
-
-[NeptoType](https://www.figma.com/file/d3YjvIMI5IS7431a46ooKP/NeptoType?node-id=0%3A1)
